@@ -95,6 +95,7 @@ Using the first five customers:
 
 ## 📁 Project Structure
 
+```text
 Loan-Default-Risk-Analysis/
 │
 ├── Data/
